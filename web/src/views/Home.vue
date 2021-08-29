@@ -5,7 +5,6 @@
     </el-aside>
     <el-container>
       <el-main style="text-align: center">
-
         <TestPage name="XiaoBai"/>
         <router-view/>
       </el-main>
