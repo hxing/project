@@ -6,7 +6,7 @@
     <el-container>
       <el-main style="text-align: center">
 
-        <TestPage name="XiaoBai1"/>
+        <TestPage name="XiaoBai"/>
         <router-view/>
       </el-main>
     </el-container>
